@@ -1,2 +1,4 @@
 # CUBITY
-A  simple 3D cube game in Unity named "CUBITY".
+A  simple 3D cube game in Unity named "CUBITY". You need to
+move sideways to avoid obstacles. Updates will be provided.
+
